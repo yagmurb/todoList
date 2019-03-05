@@ -1,1 +1,1 @@
-### Bu proje [linkteki](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/ "Komple Modern JavaScript Kursu") kursun ilk projesi olup 'aynı anda iki to do girildiğinde uyarı vermesi' özelliği eklenerek oluşturulmuştur.
+### This project which is the first project of this [course](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/ "Komple Modern JavaScript Kursu") created with the property that gives alert when two To-Dos are added at the same time.
