@@ -1,1 +1,1 @@
-### This project which is the first project of this [course](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/ "Komple Modern JavaScript Kursu") created with the property that gives alert when two To-Dos are added at the same time.
+### This project which is the first project of this [course](https://www.udemy.com/sfrdan-ileri-seviyeye-modern-javascript-kursu/ "Komple Modern JavaScript Kursu") created with the property that gives alert when two same To-Dos are added.
